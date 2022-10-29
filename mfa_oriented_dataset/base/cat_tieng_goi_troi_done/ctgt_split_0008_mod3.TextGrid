@@ -1,0 +1,229 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.617709750566894 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "utterance(L1)" 
+        xmin = 0 
+        xmax = 9.617709750566894 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.617709750566894 
+            text = "{int(dB)=24,stdint(dB)=112.41,minInt(dB)=-339,minIntT(norm)=0.97,maxInt(dB)=82,maxIntT(norm)=0.66,rangeInt(dB)=421,f0(Hz)=199,stdf0(Hz)=60.56,minF0(Hz)=104,minF0T(norm)=0.8,maxF0(Hz)=425,maxF0T(norm)=0.8,rangeF0(Hz)=321,dur(sec)=9.62}" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 9.617709750566894 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3768548752834466 
+            text = "SIL" 
+        intervals [2]:
+            xmin = 0.3768548752834466 
+            xmax = 2.2648548752834468 
+            text = "{z_intpph=0.38,f0pph=184.42,stdf0pph=57.78,z_f0pph=-0.24,dur=1.89,rel_dur=0.20,pph_sil=1," 
+        intervals [3]:
+            xmin = 2.2648548752834468 
+            xmax = 2.7848548752834468 
+            text = "SIL" 
+        intervals [4]:
+            xmin = 2.7848548752834468 
+            xmax = 4.008854875283447 
+            text = "{z_intpph=0.38,f0pph=222.97,stdf0pph=42.39,z_f0pph=0.40,dur=1.22,rel_dur=0.13,pph_sil=2," 
+        intervals [5]:
+            xmin = 4.008854875283447 
+            xmax = 4.200854875283447 
+            text = "SIL" 
+        intervals [6]:
+            xmin = 4.200854875283447 
+            xmax = 4.4968548752834465 
+            text = "{z_intpph=0.42,f0pph=208.63,stdf0pph=48.69,z_f0pph=0.16,dur=0.30,rel_dur=0.03,pph_sil=3," 
+        intervals [7]:
+            xmin = 4.4968548752834465 
+            xmax = 4.608854875283447 
+            text = "SIL" 
+        intervals [8]:
+            xmin = 4.608854875283447 
+            xmax = 5.560854875283447 
+            text = "{z_intpph=0.36,f0pph=191.71,stdf0pph=20.81,z_f0pph=-0.12,dur=0.95,rel_dur=0.10,pph_sil=4," 
+        intervals [9]:
+            xmin = 5.560854875283447 
+            xmax = 6.296854875283447 
+            text = "SIL" 
+        intervals [10]:
+            xmin = 6.296854875283447 
+            xmax = 7.4328548752834465 
+            text = "{z_intpph=0.41,f0pph=213.73,stdf0pph=68.54,z_f0pph=0.24,dur=1.14,rel_dur=0.12,pph_sil=5," 
+        intervals [11]:
+            xmin = 7.4328548752834465 
+            xmax = 7.536854875283447 
+            text = "SIL" 
+        intervals [12]:
+            xmin = 7.536854875283447 
+            xmax = 7.792854875283446 
+            text = "{z_intpph=0.37,f0pph=135.74,stdf0pph=23.63,z_f0pph=-1.04,dur=0.26,rel_dur=0.03,pph_sil=6," 
+        intervals [13]:
+            xmin = 7.792854875283446 
+            xmax = 8.128854875283446 
+            text = "SIL" 
+        intervals [14]:
+            xmin = 8.128854875283446 
+            xmax = 8.448854875283446 
+            text = "{z_intpph=0.39,f0pph=208.86,stdf0pph=70.67,z_f0pph=0.16,dur=0.32,rel_dur=0.03,pph_sil=7," 
+        intervals [15]:
+            xmin = 8.448854875283446 
+            xmax = 8.552854875283446 
+            text = "SIL" 
+        intervals [16]:
+            xmin = 8.552854875283446 
+            xmax = 8.800854875283447 
+            text = "{z_intpph=0.39,f0pph=151.95,stdf0pph=24.87,z_f0pph=-0.78,dur=0.25,rel_dur=0.03,pph_sil=8," 
+        intervals [17]:
+            xmin = 8.800854875283447 
+            xmax = 8.912854875283447 
+            text = "SIL" 
+        intervals [18]:
+            xmin = 8.912854875283447 
+            xmax = 9.264854875283445 
+            text = "{z_intpph=0.37,f0pph=228.91,stdf0pph=78.79,z_f0pph=0.49,dur=0.35,rel_dur=0.04,pph_sil=9," 
+        intervals [19]:
+            xmin = 9.264854875283445 
+            xmax = 9.617709750566894 
+            text = "SIL" 
+    item [3]:
+        class = "TextTier" 
+        name = "peaks" 
+        xmin = 0 
+        xmax = 9.617709750566894 
+        points: size = 39 
+        points [1]:
+            number = 0.4532087834851894 
+            mark = "2{int=79,t_maxInt=0.25,f0=197,int=79,f0=197,z_int=1.79,z_f0=0.22,t_point=0.04,dist_p=0.08}" 
+        points [2]:
+            number = 0.56507584965814 
+            mark = "2{int=71,t_maxInt=0.37,f0=164,int=71,f0=164,z_int=0.58,z_f0=-0.36,t_point=0.10,dist_p=0.11}" 
+        points [3]:
+            number = 0.7116804949176141 
+            mark = "2{int=75,t_maxInt=0.51,f0=174,int=75,f0=174,z_int=1.16,z_f0=-0.18,t_point=0.18,dist_p=0.15}" 
+        points [4]:
+            number = 0.7966950275084358 
+            mark = "2{int=71,t_maxInt=0.60,f0=152,int=71,f0=152,z_int=0.59,z_f0=-0.55,t_point=0.22,dist_p=0.09}" 
+        points [5]:
+            number = 1.131245524646918 
+            mark = "2{int=73,t_maxInt=0.93,f0=228,int=73,f0=228,z_int=0.79,z_f0=0.76,t_point=0.40,dist_p=0.33}" 
+        points [6]:
+            number = 1.3498849397877635 
+            mark = "2{int=72,t_maxInt=1.15,f0=216,int=72,f0=216,z_int=0.68,z_f0=0.54,t_point=0.52,dist_p=0.22}" 
+        points [7]:
+            number = 1.5669536130166768 
+            mark = "2{int=73,t_maxInt=1.37,f0=213,int=72,f0=213,z_int=0.78,z_f0=0.49,t_point=0.63,dist_p=0.22}" 
+        points [8]:
+            number = 1.8025102193759757 
+            mark = "2{int=74,t_maxInt=1.60,f0=156,int=74,f0=156,z_int=0.95,z_f0=-0.50,t_point=0.76,dist_p=0.24}" 
+        points [9]:
+            number = 1.856503303977851 
+            mark = "2{int=72,t_maxInt=1.66,f0=152,int=72,f0=152,z_int=0.73,z_f0=-0.56,t_point=0.78,dist_p=0.05}" 
+        points [10]:
+            number = 2.0811628036171883 
+            mark = "2{int=70,t_maxInt=1.88,f0=145,int=70,f0=145,z_int=0.47,z_f0=-0.69,t_point=0.90,dist_p=0.22}" 
+        points [11]:
+            number = 2.1552845650594508 
+            mark = "2{int=67,t_maxInt=1.96,f0=137,int=67,f0=137,z_int=-0.10,z_f0=-0.81,t_point=0.94,dist_p=0.07}" 
+        points [12]:
+            number = 2.8531375723904633 
+            mark = "4{int=78,t_maxInt=0.58,f0=199,int=78,f0=199,z_int=1.44,z_f0=-0.55,t_point=0.06,dist_p=0.70}" 
+        points [13]:
+            number = 2.9940655166168213 
+            mark = "4{int=70,t_maxInt=0.72,f0=238,int=70,f0=238,z_int=0.49,z_f0=0.36,t_point=0.17,dist_p=0.14}" 
+        points [14]:
+            number = 3.073277600445351 
+            mark = "4{int=69,t_maxInt=0.80,f0=329,int=69,f0=329,z_int=0.28,z_f0=2.50,t_point=0.24,dist_p=0.08}" 
+        points [15]:
+            number = 3.2385843639990357 
+            mark = "4{int=72,t_maxInt=0.96,f0=184,int=72,f0=184,z_int=0.72,z_f0=-0.92,t_point=0.37,dist_p=0.17}" 
+        points [16]:
+            number = 3.3356383294567253 
+            mark = "4{int=72,t_maxInt=1.06,f0=198,int=72,f0=198,z_int=0.69,z_f0=-0.59,t_point=0.45,dist_p=0.10}" 
+        points [17]:
+            number = 3.5930027535800764 
+            mark = "4{int=71,t_maxInt=1.32,f0=212,int=71,f0=212,z_int=0.60,z_f0=-0.27,t_point=0.66,dist_p=0.26}" 
+        points [18]:
+            number = 3.910573273202177 
+            mark = "4{int=71,t_maxInt=1.64,f0=200,int=71,f0=200,z_int=0.54,z_f0=-0.54,t_point=0.92,dist_p=0.32}" 
+        points [19]:
+            number = 4.36046945952269 
+            mark = "6{int=75,t_maxInt=-9.83,f0=183,int=75,f0=183,z_int=0.87,z_f0=-0.53,t_point=0.54,dist_p=0.45}" 
+        points [20]:
+            number = 4.445849322498468 
+            mark = "6{int=69,t_maxInt=-9.75,f0=273,int=69,f0=273,z_int=-0.41,z_f0=1.32,t_point=0.83,dist_p=0.09}" 
+        points [21]:
+            number = 4.841898852074454 
+            mark = "8{int=77,t_maxInt=0.0007,f0=166,int=77,f0=166,z_int=1.27,z_f0=-1.26,t_point=0.24,dist_p=0.40}" 
+        points [22]:
+            number = 4.895402858341786 
+            mark = "8{int=74,t_maxInt=0.05,f0=180,int=74,f0=180,z_int=0.93,z_f0=-0.54,t_point=0.30,dist_p=0.05}" 
+        points [23]:
+            number = 5.16123232116319 
+            mark = "8{int=71,t_maxInt=0.32,f0=198,int=71,f0=198,z_int=0.70,z_f0=0.31,t_point=0.58,dist_p=0.27}" 
+        points [24]:
+            number = 5.471058265411255 
+            mark = "8{int=68,t_maxInt=0.63,f0=176,int=68,f0=176,z_int=0.35,z_f0=-0.74,t_point=0.91,dist_p=0.31}" 
+        points [25]:
+            number = 6.367096287676267 
+            mark = "10{int=82,t_maxInt=0.82,f0=209,int=82,f0=209,z_int=1.38,z_f0=-0.07,t_point=0.06,dist_p=0.90}" 
+        points [26]:
+            number = 6.473877800359201 
+            mark = "10{int=79,t_maxInt=0.93,f0=195,int=79,f0=195,z_int=0.99,z_f0=-0.27,t_point=0.16,dist_p=0.11}" 
+        points [27]:
+            number = 6.621401607062332 
+            mark = "10{int=77,t_maxInt=1.08,f0=204,int=77,f0=204,z_int=0.78,z_f0=-0.14,t_point=0.29,dist_p=0.15}" 
+        points [28]:
+            number = 6.690511440263384 
+            mark = "10{int=74,t_maxInt=1.15,f0=284,int=74,f0=284,z_int=0.40,z_f0=1.02,t_point=0.35,dist_p=0.07}" 
+        points [29]:
+            number = 6.866763448979913 
+            mark = "10{int=72,t_maxInt=1.32,f0=198,int=72,f0=198,z_int=0.16,z_f0=-0.23,t_point=0.50,dist_p=0.18}" 
+        points [30]:
+            number = 7.072355594278674 
+            mark = "10{int=76,t_maxInt=1.53,f0=161,int=76,f0=161,z_int=0.70,z_f0=-0.78,t_point=0.68,dist_p=0.21}" 
+        points [31]:
+            number = 7.297345676777832 
+            mark = "10{int=74,t_maxInt=1.75,f0=179,int=74,f0=179,z_int=0.45,z_f0=-0.50,t_point=0.88,dist_p=0.22}" 
+        points [32]:
+            number = 7.39886150473874 
+            mark = "10{int=62,t_maxInt=1.86,f0=424,int=62,f0=424,z_int=-0.96,z_f0=3.06,t_point=0.97,dist_p=0.10}" 
+        points [33]:
+            number = 7.560800301409438 
+            mark = "12{int=73,t_maxInt=-21.88,f0=165,int=73,f0=165,z_int=1.69,z_f0=1.22,t_point=0.09,dist_p=0.16}" 
+        points [34]:
+            number = 7.687265041840108 
+            mark = "12{int=65,t_maxInt=-21.75,f0=126,int=65,f0=126,z_int=-0.24,z_f0=-0.41,t_point=0.59,dist_p=0.13}" 
+        points [35]:
+            number = 8.273398354034162 
+            mark = "14{int=75,t_maxInt=-17.13,f0=179,int=75,f0=179,z_int=1.33,z_f0=-0.43,t_point=0.45,dist_p=0.59}" 
+        points [36]:
+            number = 8.357244626675325 
+            mark = "14{int=72,t_maxInt=-17.05,f0=212,int=72,f0=212,z_int=0.88,z_f0=0.04,t_point=0.71,dist_p=0.08}" 
+        points [37]:
+            number = 8.622404854538972 
+            mark = "16{int=75,t_maxInt=-25.86,f0=177,int=75,f0=177,z_int=1.27,z_f0=1.02,t_point=0.28,dist_p=0.27}" 
+        points [38]:
+            number = 8.702456909693572 
+            mark = "16{int=71,t_maxInt=-25.78,f0=146,int=71,f0=146,z_int=0.43,z_f0=-0.26,t_point=0.60,dist_p=0.08}" 
+        points [39]:
+            number = 8.941522044509043 
+            mark = "18{int=71,t_maxInt=-16.38,f0=147,int=71,f0=147,z_int=1.41,z_f0=-1.03,t_point=0.08,dist_p=0.24}" 
+    item [4]:
+        class = "TextTier" 
+        name = "valleys" 
+        xmin = 0 
+        xmax = 9.617709750566894 
+        points: size = 0 

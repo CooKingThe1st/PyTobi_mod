@@ -1,0 +1,741 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.617709750566894 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "utterance(L1)" 
+        xmin = 0 
+        xmax = 9.617709750566894 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.617709750566894 
+            text = "{int(dB)=24,stdint(dB)=112.41,minInt(dB)=-339,minIntT(norm)=0.97,maxInt(dB)=82,maxIntT(norm)=0.66,rangeInt(dB)=421,f0(Hz)=199,stdf0(Hz)=60.56,minF0(Hz)=104,minF0T(norm)=0.8,maxF0(Hz)=425,maxF0T(norm)=0.8,rangeF0(Hz)=321,dur(sec)=9.62}" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "IP" 
+        xmin = 0 
+        xmax = 9.617709750566894 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35 
+            text = "SIL" 
+        intervals [2]:
+            xmin = 0.35 
+            xmax = 1.62 
+            text = "{phone_mean=0.09,phone_std=0.04,n_phones=14}" 
+        intervals [3]:
+            xmin = 1.62 
+            xmax = 1.71 
+            text = "SIL" 
+        intervals [4]:
+            xmin = 1.71 
+            xmax = 2.27 
+            text = "{phone_mean=0.09,phone_std=0.03,n_phones=6}" 
+        intervals [5]:
+            xmin = 2.27 
+            xmax = 2.76 
+            text = "SIL" 
+        intervals [6]:
+            xmin = 2.76 
+            xmax = 3.11 
+            text = "" 
+        intervals [7]:
+            xmin = 3.11 
+            xmax = 3.18 
+            text = "SIL" 
+        intervals [8]:
+            xmin = 3.18 
+            xmax = 4 
+            text = "{phone_mean=0.09,phone_std=0.05,n_phones=9}" 
+        intervals [9]:
+            xmin = 4 
+            xmax = 4.18 
+            text = "SIL" 
+        intervals [10]:
+            xmin = 4.18 
+            xmax = 5.58 
+            text = "{phone_mean=0.10,phone_std=0.03,n_phones=14}" 
+        intervals [11]:
+            xmin = 5.58 
+            xmax = 6.27 
+            text = "SIL" 
+        intervals [12]:
+            xmin = 6.27 
+            xmax = 7.37 
+            text = "{phone_mean=0.08,phone_std=0.05,n_phones=14}" 
+        intervals [13]:
+            xmin = 7.37 
+            xmax = 7.5 
+            text = "SIL" 
+        intervals [14]:
+            xmin = 7.5 
+            xmax = 7.78 
+            text = "" 
+        intervals [15]:
+            xmin = 7.78 
+            xmax = 8.1 
+            text = "SIL" 
+        intervals [16]:
+            xmin = 8.1 
+            xmax = 8.42 
+            text = "" 
+        intervals [17]:
+            xmin = 8.42 
+            xmax = 8.51 
+            text = "SIL" 
+        intervals [18]:
+            xmin = 8.51 
+            xmax = 9.09 
+            text = "{phone_mean=0.10,phone_std=0.03,n_phones=6}" 
+        intervals [19]:
+            xmin = 9.09 
+            xmax = 9.14 
+            text = "SIL" 
+        intervals [20]:
+            xmin = 9.14 
+            xmax = 9.28 
+            text = "" 
+        intervals [21]:
+            xmin = 9.28 
+            xmax = 9.617709750566894 
+            text = "SIL" 
+    item [3]:
+        class = "TextTier" 
+        name = "peaks" 
+        xmin = 0 
+        xmax = 9.617709750566894 
+        points: size = 39 
+        points [1]:
+            number = 0.4532087834851894 
+            mark = "2{int=79,t_maxInt=0.25,f0=197,int=79,f0=197,z_int=1.79,z_f0=0.22,t_point=0.04,dist_p=0.08}" 
+        points [2]:
+            number = 0.56507584965814 
+            mark = "2{int=71,t_maxInt=0.37,f0=164,int=71,f0=164,z_int=0.58,z_f0=-0.36,t_point=0.10,dist_p=0.11}" 
+        points [3]:
+            number = 0.7116804949176141 
+            mark = "2{int=75,t_maxInt=0.51,f0=174,int=75,f0=174,z_int=1.16,z_f0=-0.18,t_point=0.18,dist_p=0.15}" 
+        points [4]:
+            number = 0.7966950275084358 
+            mark = "2{int=71,t_maxInt=0.60,f0=152,int=71,f0=152,z_int=0.59,z_f0=-0.55,t_point=0.22,dist_p=0.09}" 
+        points [5]:
+            number = 1.131245524646918 
+            mark = "2{int=73,t_maxInt=0.93,f0=228,int=73,f0=228,z_int=0.79,z_f0=0.76,t_point=0.40,dist_p=0.33}" 
+        points [6]:
+            number = 1.3498849397877635 
+            mark = "2{int=72,t_maxInt=1.15,f0=216,int=72,f0=216,z_int=0.68,z_f0=0.54,t_point=0.52,dist_p=0.22}" 
+        points [7]:
+            number = 1.5669536130166768 
+            mark = "2{int=73,t_maxInt=1.37,f0=213,int=72,f0=213,z_int=0.78,z_f0=0.49,t_point=0.63,dist_p=0.22}" 
+        points [8]:
+            number = 1.8025102193759757 
+            mark = "2{int=74,t_maxInt=1.60,f0=156,int=74,f0=156,z_int=0.95,z_f0=-0.50,t_point=0.76,dist_p=0.24}" 
+        points [9]:
+            number = 1.856503303977851 
+            mark = "2{int=72,t_maxInt=1.66,f0=152,int=72,f0=152,z_int=0.73,z_f0=-0.56,t_point=0.78,dist_p=0.05}" 
+        points [10]:
+            number = 2.0811628036171883 
+            mark = "2{int=70,t_maxInt=1.88,f0=145,int=70,f0=145,z_int=0.47,z_f0=-0.69,t_point=0.90,dist_p=0.22}" 
+        points [11]:
+            number = 2.1552845650594508 
+            mark = "2{int=67,t_maxInt=1.96,f0=137,int=67,f0=137,z_int=-0.10,z_f0=-0.81,t_point=0.94,dist_p=0.07}" 
+        points [12]:
+            number = 2.8531375723904633 
+            mark = "4{int=78,t_maxInt=0.58,f0=199,int=78,f0=199,z_int=1.44,z_f0=-0.55,t_point=0.06,dist_p=0.70}" 
+        points [13]:
+            number = 2.9940655166168213 
+            mark = "4{int=70,t_maxInt=0.72,f0=238,int=70,f0=238,z_int=0.49,z_f0=0.36,t_point=0.17,dist_p=0.14}" 
+        points [14]:
+            number = 3.073277600445351 
+            mark = "4{int=69,t_maxInt=0.80,f0=329,int=69,f0=329,z_int=0.28,z_f0=2.50,t_point=0.24,dist_p=0.08}" 
+        points [15]:
+            number = 3.2385843639990357 
+            mark = "4{int=72,t_maxInt=0.96,f0=184,int=72,f0=184,z_int=0.72,z_f0=-0.92,t_point=0.37,dist_p=0.17}" 
+        points [16]:
+            number = 3.3356383294567253 
+            mark = "4{int=72,t_maxInt=1.06,f0=198,int=72,f0=198,z_int=0.69,z_f0=-0.59,t_point=0.45,dist_p=0.10}" 
+        points [17]:
+            number = 3.5930027535800764 
+            mark = "4{int=71,t_maxInt=1.32,f0=212,int=71,f0=212,z_int=0.60,z_f0=-0.27,t_point=0.66,dist_p=0.26}" 
+        points [18]:
+            number = 3.910573273202177 
+            mark = "4{int=71,t_maxInt=1.64,f0=200,int=71,f0=200,z_int=0.54,z_f0=-0.54,t_point=0.92,dist_p=0.32}" 
+        points [19]:
+            number = 4.36046945952269 
+            mark = "6{int=75,t_maxInt=-9.83,f0=183,int=75,f0=183,z_int=0.87,z_f0=-0.53,t_point=0.54,dist_p=0.45}" 
+        points [20]:
+            number = 4.445849322498468 
+            mark = "6{int=69,t_maxInt=-9.75,f0=273,int=69,f0=273,z_int=-0.41,z_f0=1.32,t_point=0.83,dist_p=0.09}" 
+        points [21]:
+            number = 4.841898852074454 
+            mark = "8{int=77,t_maxInt=0.0007,f0=166,int=77,f0=166,z_int=1.27,z_f0=-1.26,t_point=0.24,dist_p=0.40}" 
+        points [22]:
+            number = 4.895402858341786 
+            mark = "8{int=74,t_maxInt=0.05,f0=180,int=74,f0=180,z_int=0.93,z_f0=-0.54,t_point=0.30,dist_p=0.05}" 
+        points [23]:
+            number = 5.16123232116319 
+            mark = "8{int=71,t_maxInt=0.32,f0=198,int=71,f0=198,z_int=0.70,z_f0=0.31,t_point=0.58,dist_p=0.27}" 
+        points [24]:
+            number = 5.471058265411255 
+            mark = "8{int=68,t_maxInt=0.63,f0=176,int=68,f0=176,z_int=0.35,z_f0=-0.74,t_point=0.91,dist_p=0.31}" 
+        points [25]:
+            number = 6.367096287676267 
+            mark = "10{int=82,t_maxInt=0.82,f0=209,int=82,f0=209,z_int=1.38,z_f0=-0.07,t_point=0.06,dist_p=0.90}" 
+        points [26]:
+            number = 6.473877800359201 
+            mark = "10{int=79,t_maxInt=0.93,f0=195,int=79,f0=195,z_int=0.99,z_f0=-0.27,t_point=0.16,dist_p=0.11}" 
+        points [27]:
+            number = 6.621401607062332 
+            mark = "10{int=77,t_maxInt=1.08,f0=204,int=77,f0=204,z_int=0.78,z_f0=-0.14,t_point=0.29,dist_p=0.15}" 
+        points [28]:
+            number = 6.690511440263384 
+            mark = "10{int=74,t_maxInt=1.15,f0=284,int=74,f0=284,z_int=0.40,z_f0=1.02,t_point=0.35,dist_p=0.07}" 
+        points [29]:
+            number = 6.866763448979913 
+            mark = "10{int=72,t_maxInt=1.32,f0=198,int=72,f0=198,z_int=0.16,z_f0=-0.23,t_point=0.50,dist_p=0.18}" 
+        points [30]:
+            number = 7.072355594278674 
+            mark = "10{int=76,t_maxInt=1.53,f0=161,int=76,f0=161,z_int=0.70,z_f0=-0.78,t_point=0.68,dist_p=0.21}" 
+        points [31]:
+            number = 7.297345676777832 
+            mark = "10{int=74,t_maxInt=1.75,f0=179,int=74,f0=179,z_int=0.45,z_f0=-0.50,t_point=0.88,dist_p=0.22}" 
+        points [32]:
+            number = 7.39886150473874 
+            mark = "10{int=62,t_maxInt=1.86,f0=424,int=62,f0=424,z_int=-0.96,z_f0=3.06,t_point=0.97,dist_p=0.10}" 
+        points [33]:
+            number = 7.560800301409438 
+            mark = "12{int=73,t_maxInt=-21.88,f0=165,int=73,f0=165,z_int=1.69,z_f0=1.22,t_point=0.09,dist_p=0.16}" 
+        points [34]:
+            number = 7.687265041840108 
+            mark = "12{int=65,t_maxInt=-21.75,f0=126,int=65,f0=126,z_int=-0.24,z_f0=-0.41,t_point=0.59,dist_p=0.13}" 
+        points [35]:
+            number = 8.273398354034162 
+            mark = "14{int=75,t_maxInt=-17.13,f0=179,int=75,f0=179,z_int=1.33,z_f0=-0.43,t_point=0.45,dist_p=0.59}" 
+        points [36]:
+            number = 8.357244626675325 
+            mark = "14{int=72,t_maxInt=-17.05,f0=212,int=72,f0=212,z_int=0.88,z_f0=0.04,t_point=0.71,dist_p=0.08}" 
+        points [37]:
+            number = 8.622404854538972 
+            mark = "16{int=75,t_maxInt=-25.86,f0=177,int=75,f0=177,z_int=1.27,z_f0=1.02,t_point=0.28,dist_p=0.27}" 
+        points [38]:
+            number = 8.702456909693572 
+            mark = "16{int=71,t_maxInt=-25.78,f0=146,int=71,f0=146,z_int=0.43,z_f0=-0.26,t_point=0.60,dist_p=0.08}" 
+        points [39]:
+            number = 8.941522044509043 
+            mark = "18{int=71,t_maxInt=-16.38,f0=147,int=71,f0=147,z_int=1.41,z_f0=-1.03,t_point=0.08,dist_p=0.24}" 
+    item [4]:
+        class = "TextTier" 
+        name = "valleys" 
+        xmin = 0 
+        xmax = 9.617709750566894 
+        points: size = 0 
+    item [5]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 9.617709750566894 
+        intervals: size = 37 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35 
+            text = "" 
+        intervals [2]:
+            xmin = 0.35 
+            xmax = 0.56 
+            text = "vợ{t_maxf0=0.53,z_f0=-0.18,rangeF0=33,slope=-1.73,t_min=0.01,z_int=0.35,dur=0.21,n_Phones=2}" 
+        intervals [3]:
+            xmin = 0.56 
+            xmax = 0.95 
+            text = "chồng{t_maxf0=0.32,z_f0=-0.97,rangeF0=40,slope=-22.11,t_min=0.19,z_int=-0.04,dur=0.39,n_Phones=3}" 
+        intervals [4]:
+            xmin = 0.95 
+            xmax = 1.17 
+            text = "sinh{t_maxf0=0.49,z_f0=0.78,rangeF0=97,slope=88.95,t_min=0.51,z_int=0.17,dur=0.22,n_Phones=3}" 
+        intervals [5]:
+            xmin = 1.17 
+            xmax = 1.37 
+            text = "con{t_maxf0=0.38,z_f0=0.90,rangeF0=21,slope=-5.46,t_min=0.25,z_int=-0.47,dur=0.20,n_Phones=3}" 
+        intervals [6]:
+            xmin = 1.37 
+            xmax = 1.62 
+            text = "gái{t_maxf0=1.00,z_f0=0.47,rangeF0=166,slope=50.40,t_min=0.18,z_int=-0.007,dur=0.25,n_Phones=3}" 
+        intervals [7]:
+            xmin = 1.62 
+            xmax = 1.71 
+            text = "" 
+        intervals [8]:
+            xmin = 1.71 
+            xmax = 1.95 
+            text = "đầu{t_maxf0=0,z_f0=0.49,rangeF0=159,slope=-51.15,t_min=0.03,z_int=0.23,dur=0.24,n_Phones=3}" 
+        intervals [9]:
+            xmin = 1.95 
+            xmax = 2.27 
+            text = "lòng{t_maxf0=0.43,z_f0=-0.37,rangeF0=34,slope=-12.03,t_min=0.98,z_int=-0.17,dur=0.32,n_Phones=3}" 
+        intervals [10]:
+            xmin = 2.27 
+            xmax = 2.76 
+            text = "" 
+        intervals [11]:
+            xmin = 2.76 
+            xmax = 3.11 
+            text = "mãi{t_maxf0=1.00,z_f0=0,rangeF0=153,slope=133.23,t_min=0,z_int=0,dur=0.35,n_Phones=3}" 
+        intervals [12]:
+            xmin = 3.11 
+            xmax = 3.18 
+            text = "" 
+        intervals [13]:
+            xmin = 3.18 
+            xmax = 3.46 
+            text = "tám{t_maxf0=0.86,z_f0=-0.02,rangeF0=89,slope=67.01,t_min=0.02,z_int=0.05,dur=0.28,n_Phones=3}" 
+        intervals [14]:
+            xmin = 3.46 
+            xmax = 3.63 
+            text = "năm{t_maxf0=0,z_f0=0.45,rangeF0=38,slope=-24.96,t_min=0.03,z_int=0.53,dur=0.17,n_Phones=3}" 
+        intervals [15]:
+            xmin = 3.63 
+            xmax = 4 
+            text = "sau{t_maxf0=0.35,z_f0=-0.24,rangeF0=20,slope=-6.69,t_min=0.30,z_int=-0.28,dur=0.37,n_Phones=3}" 
+        intervals [16]:
+            xmin = 4 
+            xmax = 4.18 
+            text = "" 
+        intervals [17]:
+            xmin = 4.18 
+            xmax = 4.47 
+            text = "mới{t_maxf0=1.00,z_f0=0.04,rangeF0=122,slope=89.18,t_min=0.02,z_int=0.57,dur=0.29,n_Phones=3}" 
+        intervals [18]:
+            xmin = 4.47 
+            xmax = 4.77 
+            text = "sinh{t_maxf0=0.13,z_f0=0.74,rangeF0=109,slope=-102.23,t_min=0.43,z_int=0.10,dur=0.30,n_Phones=3}" 
+        intervals [19]:
+            xmin = 4.77 
+            xmax = 4.93 
+            text = "đứa{t_maxf0=1.00,z_f0=-0.66,rangeF0=46,slope=19.99,t_min=0.22,z_int=0.67,dur=0.16,n_Phones=2}" 
+        intervals [20]:
+            xmin = 4.93 
+            xmax = 5.21 
+            text = "con{t_maxf0=0.37,z_f0=0.42,rangeF0=60,slope=-32.21,t_min=0.31,z_int=-0.53,dur=0.28,n_Phones=3}" 
+        intervals [21]:
+            xmin = 5.21 
+            xmax = 5.58 
+            text = "trai{t_maxf0=0.33,z_f0=-0.59,rangeF0=21,slope=-9.07,t_min=0.99,z_int=-0.42,dur=0.37,n_Phones=3}" 
+        intervals [22]:
+            xmin = 5.58 
+            xmax = 6.27 
+            text = "" 
+        intervals [23]:
+            xmin = 6.27 
+            xmax = 6.63 
+            text = "mừng{t_maxf0=0.32,z_f0=-0.09,rangeF0=33,slope=-13.92,t_min=0.01,z_int=0.62,dur=0.36,n_Phones=3}" 
+        intervals [24]:
+            xmin = 6.63 
+            xmax = 6.74 
+            text = "như{t_maxf0=0.83,z_f0=1.37,rangeF0=82,slope=68.11,t_min=0.34,z_int=0.30,dur=0.11,n_Phones=2}" 
+        intervals [25]:
+            xmin = 6.74 
+            xmax = 6.95 
+            text = "đào{t_maxf0=0,z_f0=0.13,rangeF0=126,slope=-87.96,t_min=0.16,z_int=-0.38,dur=0.21,n_Phones=3}" 
+        intervals [26]:
+            xmin = 6.95 
+            xmax = 7.17 
+            text = "được{t_maxf0=1.00,z_f0=-0.93,rangeF0=26,slope=20.67,t_min=0.98,z_int=-0.73,dur=0.22,n_Phones=3}" 
+        intervals [27]:
+            xmin = 7.17 
+            xmax = 7.37 
+            text = "đống{t_maxf0=1.00,z_f0=0.14,rangeF0=204,slope=184.32,t_min=0.03,z_int=-0.08,dur=0.20,n_Phones=3}" 
+        intervals [28]:
+            xmin = 7.37 
+            xmax = 7.5 
+            text = "" 
+        intervals [29]:
+            xmin = 7.5 
+            xmax = 7.78 
+            text = "vàng{t_maxf0=0.17,z_f0=0,rangeF0=60,slope=-53.78,t_min=0.03,z_int=0,dur=0.28,n_Phones=3}" 
+        intervals [30]:
+            xmin = 7.78 
+            xmax = 8.1 
+            text = "" 
+        intervals [31]:
+            xmin = 8.1 
+            xmax = 8.42 
+            text = "vái{t_maxf0=1.00,z_f0=0,rangeF0=176,slope=91.54,t_min=0.03,z_int=0,dur=0.32,n_Phones=3}" 
+        intervals [32]:
+            xmin = 8.42 
+            xmax = 8.51 
+            text = "" 
+        intervals [33]:
+            xmin = 8.51 
+            xmax = 8.78 
+            text = "trời{t_maxf0=0.32,z_f0=0.04,rangeF0=62,slope=-47.64,t_min=0.06,z_int=0.30,dur=0.27,n_Phones=3}" 
+        intervals [34]:
+            xmin = 8.78 
+            xmax = 9.09 
+            text = "vái{t_maxf0=1.00,z_f0=-0.03,rangeF0=99,slope=73.83,t_min=0.21,z_int=-0.26,dur=0.31,n_Phones=3}" 
+        intervals [35]:
+            xmin = 9.09 
+            xmax = 9.14 
+            text = "" 
+        intervals [36]:
+            xmin = 9.14 
+            xmax = 9.28 
+            text = "đất{t_maxf0=0.94,z_f0=0,rangeF0=128,slope=100.23,t_min=0.95,z_int=0,dur=0.14,n_Phones=3}" 
+        intervals [37]:
+            xmin = 9.28 
+            xmax = 9.617709750566894 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 9.617709750566894 
+        intervals: size = 86 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.35 
+            text = "" 
+        intervals [2]:
+            xmin = 0.35 
+            xmax = 0.44 
+            text = "v{z_dur=-1.00}" 
+        intervals [3]:
+            xmin = 0.44 
+            xmax = 0.56 
+            text = "əː˨˩˨{z_dur=1.00}" 
+        intervals [4]:
+            xmin = 0.56 
+            xmax = 0.69 
+            text = "tɕ{z_dur=-0.000000000000002}" 
+        intervals [5]:
+            xmin = 0.69 
+            xmax = 0.77 
+            text = "o˨˨{z_dur=-1.22}" 
+        intervals [6]:
+            xmin = 0.77 
+            xmax = 0.95 
+            text = "ŋm{z_dur=1.22}" 
+        intervals [7]:
+            xmin = 0.95 
+            xmax = 1.08 
+            text = "s{z_dur=1.35}" 
+        intervals [8]:
+            xmin = 1.08 
+            xmax = 1.11 
+            text = "i˨˨{z_dur=-1.03}" 
+        intervals [9]:
+            xmin = 1.11 
+            xmax = 1.17 
+            text = "ɲ{z_dur=-0.32}" 
+        intervals [10]:
+            xmin = 1.17 
+            xmax = 1.26 
+            text = "k{z_dur=1.14}" 
+        intervals [11]:
+            xmin = 1.26 
+            xmax = 1.3 
+            text = "ɔː˨˨{z_dur=-1.30}" 
+        intervals [12]:
+            xmin = 1.3 
+            xmax = 1.37 
+            text = "n{z_dur=0.16}" 
+        intervals [13]:
+            xmin = 1.37 
+            xmax = 1.45 
+            text = "ɣ{z_dur=-0.27}" 
+        intervals [14]:
+            xmin = 1.45 
+            xmax = 1.52 
+            text = "aː˨˦{z_dur=-1.07}" 
+        intervals [15]:
+            xmin = 1.52 
+            xmax = 1.62 
+            text = "j{z_dur=1.34}" 
+        intervals [16]:
+            xmin = 1.62 
+            xmax = 1.71 
+            text = "" 
+        intervals [17]:
+            xmin = 1.71 
+            xmax = 1.8 
+            text = "ɗ{z_dur=0.34}" 
+        intervals [18]:
+            xmin = 1.8 
+            xmax = 1.84 
+            text = "ə˨˩{z_dur=-1.36}" 
+        intervals [19]:
+            xmin = 1.84 
+            xmax = 1.95 
+            text = "w{z_dur=1.02}" 
+        intervals [20]:
+            xmin = 1.95 
+            xmax = 2.06 
+            text = "l{z_dur=0.12}" 
+        intervals [21]:
+            xmin = 2.06 
+            xmax = 2.13 
+            text = "ɔ˨˨{z_dur=-1.28}" 
+        intervals [22]:
+            xmin = 2.13 
+            xmax = 2.27 
+            text = "ŋm{z_dur=1.16}" 
+        intervals [23]:
+            xmin = 2.27 
+            xmax = 2.76 
+            text = "" 
+        intervals [24]:
+            xmin = 2.76 
+            xmax = 2.86 
+            text = "m{z_dur=-0.54}" 
+        intervals [25]:
+            xmin = 2.86 
+            xmax = 2.95 
+            text = "aː˨ˀ˥{z_dur=-0.86}" 
+        intervals [26]:
+            xmin = 2.95 
+            xmax = 3.11 
+            text = "j{z_dur=1.40}" 
+        intervals [27]:
+            xmin = 3.11 
+            xmax = 3.18 
+            text = "" 
+        intervals [28]:
+            xmin = 3.18 
+            xmax = 3.22 
+            text = "t{z_dur=-1.07}" 
+        intervals [29]:
+            xmin = 3.22 
+            xmax = 3.3 
+            text = "aː˨˦{z_dur=-0.27}" 
+        intervals [30]:
+            xmin = 3.3 
+            xmax = 3.46 
+            text = "m{z_dur=1.34}" 
+        intervals [31]:
+            xmin = 3.46 
+            xmax = 3.5 
+            text = "n{z_dur=-0.98}" 
+        intervals [32]:
+            xmin = 3.5 
+            xmax = 3.55 
+            text = "a˨˨{z_dur=-0.39}" 
+        intervals [33]:
+            xmin = 3.55 
+            xmax = 3.63 
+            text = "m{z_dur=1.37}" 
+        intervals [34]:
+            xmin = 3.63 
+            xmax = 3.76 
+            text = "s{z_dur=0.12}" 
+        intervals [35]:
+            xmin = 3.76 
+            xmax = 3.81 
+            text = "a˨˨{z_dur=-1.28}" 
+        intervals [36]:
+            xmin = 3.81 
+            xmax = 4 
+            text = "w{z_dur=1.16}" 
+        intervals [37]:
+            xmin = 4 
+            xmax = 4.18 
+            text = "" 
+        intervals [38]:
+            xmin = 4.18 
+            xmax = 4.26 
+            text = "m{z_dur=-1.34}" 
+        intervals [39]:
+            xmin = 4.26 
+            xmax = 4.36 
+            text = "əː˨˦{z_dur=0.27}" 
+        intervals [40]:
+            xmin = 4.36 
+            xmax = 4.47 
+            text = "j{z_dur=1.07}" 
+        intervals [41]:
+            xmin = 4.47 
+            xmax = 4.61 
+            text = "s{z_dur=1.22}" 
+        intervals [42]:
+            xmin = 4.61 
+            xmax = 4.67 
+            text = "i˨˨{z_dur=-1.22}" 
+        intervals [43]:
+            xmin = 4.67 
+            xmax = 4.77 
+            text = "ɲ{z_dur=-0.000000000000009}" 
+        intervals [44]:
+            xmin = 4.77 
+            xmax = 4.82 
+            text = "ɗ{z_dur=-1.00}" 
+        intervals [45]:
+            xmin = 4.82 
+            xmax = 4.93 
+            text = "ɨə˨˦{z_dur=1.00}" 
+        intervals [46]:
+            xmin = 4.93 
+            xmax = 5.09 
+            text = "k{z_dur=1.34}" 
+        intervals [47]:
+            xmin = 5.09 
+            xmax = 5.13 
+            text = "ɔː˨˨{z_dur=-1.07}" 
+        intervals [48]:
+            xmin = 5.13 
+            xmax = 5.21 
+            text = "n{z_dur=-0.27}" 
+        intervals [49]:
+            xmin = 5.21 
+            xmax = 5.36 
+            text = "tɕ{z_dur=1.41}" 
+        intervals [50]:
+            xmin = 5.36 
+            xmax = 5.47 
+            text = "aː˨˨{z_dur=-0.71}" 
+        intervals [51]:
+            xmin = 5.47 
+            xmax = 5.58 
+            text = "j{z_dur=-0.71}" 
+        intervals [52]:
+            xmin = 5.58 
+            xmax = 6.27 
+            text = "" 
+        intervals [53]:
+            xmin = 6.27 
+            xmax = 6.36 
+            text = "m{z_dur=-0.41}" 
+        intervals [54]:
+            xmin = 6.36 
+            xmax = 6.41 
+            text = "ɨ˨˨{z_dur=-0.96}" 
+        intervals [55]:
+            xmin = 6.41 
+            xmax = 6.63 
+            text = "ŋ{z_dur=1.38}" 
+        intervals [56]:
+            xmin = 6.63 
+            xmax = 6.68 
+            text = "ɲ{z_dur=-1.00}" 
+        intervals [57]:
+            xmin = 6.68 
+            xmax = 6.74 
+            text = "ɨ˨˨{z_dur=1.00}" 
+        intervals [58]:
+            xmin = 6.74 
+            xmax = 6.85 
+            text = "ɗ{z_dur=1.36}" 
+        intervals [59]:
+            xmin = 6.85 
+            xmax = 6.91 
+            text = "aː˨˩{z_dur=-0.34}" 
+        intervals [60]:
+            xmin = 6.91 
+            xmax = 6.95 
+            text = "w{z_dur=-1.02}" 
+        intervals [61]:
+            xmin = 6.95 
+            xmax = 7.05 
+            text = "ɗ{z_dur=1.07}" 
+        intervals [62]:
+            xmin = 7.05 
+            xmax = 7.09 
+            text = "ɨə˨˩{z_dur=-1.34}" 
+        intervals [63]:
+            xmin = 7.09 
+            xmax = 7.17 
+            text = "k̚{z_dur=0.27}" 
+        intervals [64]:
+            xmin = 7.17 
+            xmax = 7.24 
+            text = "ɗ{z_dur=0.12}" 
+        intervals [65]:
+            xmin = 7.24 
+            xmax = 7.27 
+            text = "ɔ˦˥{z_dur=-1.28}" 
+        intervals [66]:
+            xmin = 7.27 
+            xmax = 7.37 
+            text = "ŋm{z_dur=1.16}" 
+        intervals [67]:
+            xmin = 7.37 
+            xmax = 7.5 
+            text = "" 
+        intervals [68]:
+            xmin = 7.5 
+            xmax = 7.55 
+            text = "v{z_dur=-1.31}" 
+        intervals [69]:
+            xmin = 7.55 
+            xmax = 7.68 
+            text = "aː˨˩{z_dur=1.11}" 
+        intervals [70]:
+            xmin = 7.68 
+            xmax = 7.78 
+            text = "ŋ{z_dur=0.20}" 
+        intervals [71]:
+            xmin = 7.78 
+            xmax = 8.1 
+            text = "" 
+        intervals [72]:
+            xmin = 8.1 
+            xmax = 8.26 
+            text = "v{z_dur=1.38}" 
+        intervals [73]:
+            xmin = 8.26 
+            xmax = 8.35 
+            text = "aː˦˥{z_dur=-0.43}" 
+        intervals [74]:
+            xmin = 8.35 
+            xmax = 8.42 
+            text = "j{z_dur=-0.95}" 
+        intervals [75]:
+            xmin = 8.42 
+            xmax = 8.51 
+            text = "" 
+        intervals [76]:
+            xmin = 8.51 
+            xmax = 8.6 
+            text = "tɕ{z_dur=0}" 
+        intervals [77]:
+            xmin = 8.6 
+            xmax = 8.72 
+            text = "əː˨˨{z_dur=1.22}" 
+        intervals [78]:
+            xmin = 8.72 
+            xmax = 8.78 
+            text = "j{z_dur=-1.22}" 
+        intervals [79]:
+            xmin = 8.78 
+            xmax = 8.93 
+            text = "v{z_dur=1.27}" 
+        intervals [80]:
+            xmin = 8.93 
+            xmax = 8.99 
+            text = "aː˦˥{z_dur=-1.18}" 
+        intervals [81]:
+            xmin = 8.99 
+            xmax = 9.09 
+            text = "j{z_dur=-0.09}" 
+        intervals [82]:
+            xmin = 9.09 
+            xmax = 9.14 
+            text = "" 
+        intervals [83]:
+            xmin = 9.14 
+            xmax = 9.19 
+            text = "ɗ{z_dur=0.71}" 
+        intervals [84]:
+            xmin = 9.19 
+            xmax = 9.23 
+            text = "ə˦˥{z_dur=-1.41}" 
+        intervals [85]:
+            xmin = 9.23 
+            xmax = 9.28 
+            text = "t̚{z_dur=0.71}" 
+        intervals [86]:
+            xmin = 9.28 
+            xmax = 9.617709750566894 
+            text = "" 
